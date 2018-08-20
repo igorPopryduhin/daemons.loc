@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Daemon" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug" editBeforeRun="true" singleton="true" filter_connections="NOT_FILTER">
+    <method>
+      <option name="FwBeforeLaunchTask" enabled="true" />
+      <option name="LaunchBrowser.Before.Run" url="http://194.58.123.65/run.php" />
+    </method>
+  </configuration>
+</component>

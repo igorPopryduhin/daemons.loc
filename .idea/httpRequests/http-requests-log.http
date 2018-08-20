@@ -1,0 +1,32 @@
+GET http://apis.wxrrd.com/router/rest?appid=3c1157b05eea8d0b&secret=584133c1157b05eea8d0bbd58de56445&method=weiba.wxrrd.goods.lists&access_token=796d691362af324ac5c7b43098da5281&timestamp=2018-08-21+19:26:57&sign=042FF525C55C70697ACA2226C9E70CE2&limit=10&offset=0&appid=3c1157b05eea8d0b&secret=584133c1157b05eea8d0bbd58de56445&method=weiba.wxrrd.goods.lists&access_token=796d691362af324ac5c7b43098da5281&timestamp=2018-08-21+00%3A20%3A57&sign=042FF525C55C70697ACA2226C9E70CE2&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-20T072329-1.200.json
+
+###
+
+GET http://apis.wxrrd.com/router/rest?appid=3c1157b05eea8d0b&secret=584133c1157b05eea8d0bbd58de56445&method=weiba.wxrrd.goods.lists&access_token=796d691362af324ac5c7b43098da5281&timestamp=2018-08-21+19:26:57&sign=042FF525C55C70697ACA2226C9E70CE2&limit=10&offset=0&appid=3c1157b05eea8d0b&secret=584133c1157b05eea8d0bbd58de56445&method=weiba.wxrrd.goods.lists&access_token=796d691362af324ac5c7b43098da5281&timestamp=2018-08-21+00%3A20%3A57&sign=042FF525C55C70697ACA2226C9E70CE2&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-20T072329.200.json
+
+###
+
+GET http://apis.wxrrd.com/router/rest?appid=3c1157b05eea8d0b&secret=584133c1157b05eea8d0bbd58de56445&method=weiba.wxrrd.goods.lists&access_token=796d691362af324ac5c7b43098da5281&timestamp=2018-08-21+00:20:57&sign=042FF525C55C70697ACA2226C9E70CE2&limit=10&offset=0&appid=3c1157b05eea8d0b&secret=584133c1157b05eea8d0bbd58de56445&method=weiba.wxrrd.goods.lists&access_token=796d691362af324ac5c7b43098da5281&timestamp=2018-08-21+00%3A20%3A57&sign=042FF525C55C70697ACA2226C9E70CE2&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-20T072158.200.json
+
+###
+
+GET http://apis.wxrrd.com/router/rest?appid=3c1157b05eea8d0b&secret=584133c1157b05eea8d0bbd58de56445&method=weiba.wxrrd.goods.lists&access_token=796d691362af324ac5c7b43098da5281&timestamp=2018-08-21+00:20:57&sign=042FF525C55C70697ACA2226C9E70CE2&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-20T072137.200.json
+
+###
+

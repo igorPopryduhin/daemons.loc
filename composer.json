@@ -1,0 +1,27 @@
+{
+    "name": "igorp/daemons",
+    "description": "daemons",
+    "type": "project",
+    "require": {
+        "colshrapnel/safemysql": "^1.1"
+    },
+    "authors": [
+        {
+            "name": "Игорь",
+            "email": "igor.popryduhin@yandex.ru"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {
+            "Engine\\": "engine",
+            "App\\": "app"
+        },
+
+        "files": [
+            "engine/Wxrrd/Wxrrd.php",
+            "engine/Lib/SMSC/smsc_api.php"
+        ]
+    }
+
+}

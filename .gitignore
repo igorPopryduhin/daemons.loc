@@ -1,0 +1,14 @@
+
+.idea/vcs.xml
+.idea/workspace.xml
+
+/vendor/
+composer.lock
+.idea/workspace.xml
+.idea/daemons.iml
+.idea/deployment.xml
+.idea/dictionaries/igorp.xml
+.idea/httpRequests/2018-08-20T072329.200.json
+.idea/httpRequests/2018-08-20T072329-1.200.json
+.idea/httpRequests/2018-08-20T072158.200.json
+.idea/httpRequests/2018-08-20T072137.200.json

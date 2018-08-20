@@ -10,6 +10,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="40afc8bf-1393-4d14-b49f-7bfe4051c459" name="ssd-xen-4-daemins" url="http://194.58.123.65">
+        <fileTransfer host="194.58.123.65" port="21" rootFolder="/app">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </project>
