@@ -1,8 +1,8 @@
 <?php
 return [
     'user'      => 'rit',
-    'pass'      => 'T7z4W9t2',
-    'db'        => 'cms_wxrrd',
+    'pass'      => '',
+    'db'        => '',
     'port'      => NULL,
     'socket'    => NULL,
     'pconnect'  => FALSE,
